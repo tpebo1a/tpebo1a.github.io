@@ -14,7 +14,7 @@ const App = () => {
   const canvasRef = useRef(null);
 
   // configs
-  const modelName = "model.onnx";
+  const modelName = "best_one.onnx";
   const modelInputShape = [1, 3, 640, 640];
   const topk = 100;
   const iouThreshold = 0.45;
