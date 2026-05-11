@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.10e7f4da.css",
-    "main.js": "/static/js/main.5e4812ee.js",
+    "main.js": "/static/js/main.14fc3321.js",
     "best_one.onnx": "/best_one.onnx",
     "static/js/ort-wasm-simd.wasm": "/static/js/ort-wasm-simd.wasm",
     "static/js/ort-wasm-simd-threaded.wasm": "/static/js/ort-wasm-simd-threaded.wasm",
@@ -11,10 +11,10 @@
     "nms-yolov8.onnx": "/nms-yolov8.onnx",
     "index.html": "/index.html",
     "main.10e7f4da.css.map": "/static/css/main.10e7f4da.css.map",
-    "main.5e4812ee.js.map": "/static/js/main.5e4812ee.js.map"
+    "main.14fc3321.js.map": "/static/js/main.14fc3321.js.map"
   },
   "entrypoints": [
     "static/css/main.10e7f4da.css",
-    "static/js/main.5e4812ee.js"
+    "static/js/main.14fc3321.js"
   ]
 }
