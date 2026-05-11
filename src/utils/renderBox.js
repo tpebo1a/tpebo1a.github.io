@@ -45,9 +45,9 @@ export class Colors {
   // ultralytics color palette https://ultralytics.com/
   constructor() {
     this.palette = [
-      "#FF3838",
-      "#FF9D97",
-      "#FF701F",
+      "#9b38ff",
+      "#38a5ff",
+      "#BA6B5D",
       "#FFB21D",
       "#CFD231",
       "#48F90A",

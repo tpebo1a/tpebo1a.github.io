@@ -24,7 +24,7 @@ const App = () => {
   cv["onRuntimeInitialized"] = async () => {
     // create session
     setLoading({ text: "Loading model...", progress: null });
-    const yolov8 = await InferenceSession.create('./model.onnx');
+    const yolov8 = await InferenceSession.create('./best_one.onnx');
 
     setLoading({ text: "Warming up nms...", progress: null });
     const nms = await InferenceSession.create('./nms-yolov8.onnx');
