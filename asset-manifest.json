@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.10e7f4da.css",
+    "main.css": "/static/css/main.ed243d89.css",
     "main.js": "/static/js/main.9a7d4ecf.js",
     "static/js/220.dbff145a.chunk.js": "/static/js/220.dbff145a.chunk.js",
     "static/js/577.0f229eec.chunk.js": "/static/js/577.0f229eec.chunk.js",
@@ -46,13 +46,13 @@
     "mask-yolov8-seg.onnx": "/mask-yolov8-seg.onnx",
     "nms-yolov8.onnx": "/nms-yolov8.onnx",
     "index.html": "/index.html",
-    "main.10e7f4da.css.map": "/static/css/main.10e7f4da.css.map",
+    "main.ed243d89.css.map": "/static/css/main.ed243d89.css.map",
     "main.9a7d4ecf.js.map": "/static/js/main.9a7d4ecf.js.map",
     "220.dbff145a.chunk.js.map": "/static/js/220.dbff145a.chunk.js.map",
     "577.0f229eec.chunk.js.map": "/static/js/577.0f229eec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.10e7f4da.css",
+    "static/css/main.ed243d89.css",
     "static/js/main.9a7d4ecf.js"
   ]
 }
